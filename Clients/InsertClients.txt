@@ -1,0 +1,9 @@
+Insert Into Client 
+(ClientId, Fname, Lname, NationalId, Bdate)values
+ ('900131517', 'Ahmed', 'Hisham', '1234567892', '21-Jan-1997');
+
+Insert Into ClientEmail
+(ClientId, Email) values ('900131517', ahmedhesham@aucegypt.edu);
+
+Insert Into ClientPhone
+(ClientId, PhoneNumber) values ('900131517', '01006127807');
